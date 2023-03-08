@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "project_number": "187149559333",
+    "firebase_url": "https://cosmic-antenna-348511-default-rtdb.firebaseio.com",
+    "project_id": "cosmic-antenna-348511",
+    "storage_bucket": "cosmic-antenna-348511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187149559333:android:ab1c8a712fe0f5055c01cc",
+        "android_client_info": {
+          "package_name": "com.example.assignment_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187149559333-6c4566dc6ibahtqssl5cephbg0mci973.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrUt3t7p7H7bK9WHlopiujuwKXlYywCoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187149559333-6c4566dc6ibahtqssl5cephbg0mci973.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187149559333:android:e2f59118b93aab055c01cc",
+        "android_client_info": {
+          "package_name": "com.example.cloudcomputinglap1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187149559333-6c4566dc6ibahtqssl5cephbg0mci973.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrUt3t7p7H7bK9WHlopiujuwKXlYywCoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187149559333-6c4566dc6ibahtqssl5cephbg0mci973.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187149559333:android:b39dea116f12c26f5c01cc",
+        "android_client_info": {
+          "package_name": "com.example.github_activity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187149559333-6c4566dc6ibahtqssl5cephbg0mci973.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrUt3t7p7H7bK9WHlopiujuwKXlYywCoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187149559333-6c4566dc6ibahtqssl5cephbg0mci973.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187149559333:android:44d1c62c3b7c79ee5c01cc",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187149559333-6c4566dc6ibahtqssl5cephbg0mci973.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrUt3t7p7H7bK9WHlopiujuwKXlYywCoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187149559333-6c4566dc6ibahtqssl5cephbg0mci973.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187149559333:android:20a8a4e15b3d948f5c01cc",
+        "android_client_info": {
+          "package_name": "com.example.realtime_activity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187149559333-6c4566dc6ibahtqssl5cephbg0mci973.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrUt3t7p7H7bK9WHlopiujuwKXlYywCoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187149559333-6c4566dc6ibahtqssl5cephbg0mci973.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187149559333:android:c0010ee7acdf06a35c01cc",
+        "android_client_info": {
+          "package_name": "com.offersonlineworld.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187149559333-6c4566dc6ibahtqssl5cephbg0mci973.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrUt3t7p7H7bK9WHlopiujuwKXlYywCoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187149559333-6c4566dc6ibahtqssl5cephbg0mci973.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187149559333:android:3a094366a0b452d55c01cc",
+        "android_client_info": {
+          "package_name": "com.offersonlineworld.uigandroid2project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187149559333-6c4566dc6ibahtqssl5cephbg0mci973.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrUt3t7p7H7bK9WHlopiujuwKXlYywCoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187149559333-6c4566dc6ibahtqssl5cephbg0mci973.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
